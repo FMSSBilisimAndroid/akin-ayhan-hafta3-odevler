@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week3AppNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Forget Password fragment</string>
+    <string name="yeni_ifreyi_kaydet">Yeni Şifreyi Kaydet</string>
+    <string name="sifre_tekrar">Şifre Tekrar</string>
+    <string name="sifre">Şifre</string>
+    <string name="kullanici_adi">Kullanıcı Adı</string>
+    <string name="sifre_yenileme_ekrani">Şifre Yenileme Ekranı</string>
+    <string name="geri">Geri</string>
+</resources>
